@@ -1,30 +1,4 @@
-# p5-sketch-bird
-deploy game
-```html
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My Website</title>
-  <style>
-    .intro-header {
-      background-color: #f5f5f5;
-      padding: 20px;
-      text-align: center;
-    }
-    
-    .intro-header h1 {
-      font-size: 24px;
-      color: #333;
-    }
-  </style>
-</head>
-<body>
-  <div class="intro-header">
-    <h1>Welcome to Bird Dodge Bullet Website!</h1>
-    <p> Hello! I am Isabel M ! A boy mom and GCU web design student.  Here are the is how to play! Instructions:
+Welcome to Bird Dodge Bullet Website!</h1>
+Hello! I am Isabel M ! A boy mom and GCU web design student.  Here are the is how to play! Instructions:
 use spacebar to help bird fly 
-Dodge each bullet or lose the game here...</p>
-  </div>
-</body>
-</html>
-```
+Dodge each bullet or lose the game
